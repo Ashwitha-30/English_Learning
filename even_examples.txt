@@ -25,4 +25,9 @@ Example: He finished the race, even though he was injured.
 Example: She will go to the party, even if she doesn’t know anyone there.
 
 Example: Even if he fails, he’ll keep trying until he succeeds.
+<<<<<<< HEAD
 this is also 
+=======
+this is merge conflict example.
+
+>>>>>>> b82221e3623e74d0573ba5911bdd22ec0d383d36
